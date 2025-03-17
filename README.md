@@ -2,12 +2,16 @@
 A customizable penalty shootout game where players can adjust settings and compete against an AI opponent who also tries to score.
 
 ## Features
-✅ In-Depth Setup Screen. 
-    Customize your gameplay experience with various options:
+✅ In-Depth Setup Screen , Customize your gameplay experience with various options:
+    
       -Choose Distance: Pick a specific shooting distance or let the game choose randomly.
+      
       -Difficulty Levels: Face an AI opponent with Easy, Medium, or Hard difficulty.
+      
       -Gravity Toggle: Choose whether gravity affects the ball’s trajectory.
+      
       -Moving Goal Option: Play with a static or moving goal for added challenge.
+      
       -Practice Mode: Train without an AI opponent.
 
 ✅ AI Opponent: Compete against an AI that also tries to score, adding an extra layer of challenge.
