@@ -1,4 +1,5 @@
 # 2D Platformer
+Inspired by the classic Mario series, where players navigate levels, defeat enemies, and collect coins.
 
 ## Features
 ✅ inspired by the classic Mario series, where players navigate levels, defeat enemies, and collect coins.
