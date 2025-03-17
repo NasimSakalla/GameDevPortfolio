@@ -1,4 +1,4 @@
-#2D platformer
+# 2D Platformer
 
 ## Features
 ✅ inspired by the classic Mario series, where players navigate levels, defeat enemies, and collect coins.
