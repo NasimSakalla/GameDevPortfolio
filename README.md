@@ -1,17 +1,16 @@
-# Game Development Portfolio  
+# Third Person Controller
+A simple third-person character controller featuring smooth camera movement and realistic physics.
 
-Welcome to my game dev portfolio! Here you'll find some of the projects I've worked on. Click a project to view its files and details.  
+## Features  
+✅ Character Movement: Walk around using standard movement controls.
 
-## Featured Projects  
-- [Horror Game](https://github.com/NasimSakalla/GameDevPortfolio/tree/Horror-Game) - AI-driven horror experience with player customization.  
-- [Memory Card Game](https://github.com/YourUsername/GameDevPortfolio/tree/memory-card-game) - Classic memory game with randomized layouts and smooth UI.  
+✅ Mouse-Controlled Camera: Rotate the camera smoothly with the mouse.
 
-Each project has its own branch with more details, code, and assets. Feel welcome to explore!  
+✅ Gravity Simulation: Uses a Character Controller for realistic falling and movement.
 
-Open to work | Contact: nasimsakalla8@gmail.com 
-
-
-
+### Playable demo!
+🔗 Click [here](https://play.unity.com/en/games/0d0c3abf-0fad-49b6-b5bd-c8666b3059f6/third-person-cont)
+🔗 Back to [Portfolio](https://github.com/NasimSakalla/GameDevPortfolio)
 
 
 
