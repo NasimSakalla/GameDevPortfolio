@@ -8,6 +8,7 @@ A survival horror game featuring AI-driven prueser.
 
 ### Playable demo!
 🔗 For the demo click [here](https://play.unity.com/en/games/44ba5fdd-17e1-47a2-9c97-0cb7e88d4162/the-teacher)
+
 🔗 Back to [Portfolio](https://github.com/NasimSakalla/GameDevPortfolio)
 
 #### in game screenshots provided below 
