@@ -8,7 +8,7 @@ All projects were built with Unity and C#.
 
 ### Featured Projects  
 - [Horror Game](https://github.com/NasimSakalla/GameDevPortfolio/tree/Horror-Game) - AI-driven horror experience with player customization.  
-- [My Territory](https://github.com/NasimSakalla/GameDevPortfolio/tree/My-Territory-Game?tab=readme-ov-file) - A classic memory game featuring randomized layouts and a smooth UI.
+- [My Territory](https://github.com/NasimSakalla/GameDevPortfolio/tree/My-Territory-Game?tab=readme-ov-file) - A turn-based strategy game.
 - [Penalty Kick Game](https://github.com/NasimSakalla/GameDevPortfolio/tree/PenaltyKick-Game?tab=readme-ov-file) - A customizable penalty shootout game.
   
 #### Other Projects
