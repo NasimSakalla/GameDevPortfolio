@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Nasim Sakalla - Game Development Portfolio  
+=======
+# Third Person Controller
+A simple third-person character controller featuring smooth camera movement and realistic physics.
+>>>>>>> parent of 1a5b88d1 (fix name)
 
 Welcome! This portfolio showcases selected projects I’ve developed in Unity, highlighting gameplay systems, AI, UI/UX, and prototyping skills. All projects run fully in Unity Editor; code, assets, and setup instructions are included in each project branch.
 
@@ -12,6 +17,7 @@ Welcome! This portfolio showcases selected projects I’ve developed in Unity, h
 <details>
   <summary>Click to expand</summary>
 
+<<<<<<< HEAD
 - [Card Memory Game](https://github.com/NasimSakalla/GameDevPortfolio/tree/Card-Memory-Game) - Classic memory game with randomized layouts and smooth UI.  
 - [2D Platformer](https://github.com/NasimSakalla/GameDevPortfolio/tree/Bow-Mario-Game) - Inspired by the classic Mario series, where players navigate levels, defeat enemies, and collect coins.  
 - [Basketball Game](https://github.com/NasimSakalla/GameDevPortfolio/tree/Basketball-Game) - A basketball game showcasing UI elements and the use of physics materials for ball bounces and interactions.  
@@ -31,3 +37,12 @@ Welcome! This portfolio showcases selected projects I’ve developed in Unity, h
 [My game development certificate from SV College](https://github.com/user-attachments/files/19036884/My.game.development.certificate.from.SV.College.pdf)
 
 Open to work | Contact: nasimsakalla@gmail.com 
+=======
+### Playable demo!
+🔗 Click [here](https://play.unity.com/en/games/0d0c3abf-0fad-49b6-b5bd-c8666b3059f6/third-person-cont)
+🔗 Back to [Portfolio](https://github.com/NasimSakalla/GameDevPortfolio)
+
+
+
+
+>>>>>>> parent of 1a5b88d1 (fix name)
