@@ -1,5 +1,5 @@
 # Third Person Controller
-A simple third-person character controller featuring smooth camera movement and realistic physics.
+A simple third-person character controller featuring smooth camera movement.
 
 ## Features  
 ✅ Character Movement: Walk around using standard movement controls.
@@ -8,10 +8,5 @@ A simple third-person character controller featuring smooth camera movement and 
 
 ✅ Gravity Simulation: Uses a Character Controller for realistic falling and movement.
 
-### Playable demo!
-🔗 Click [here](https://play.unity.com/en/games/0d0c3abf-0fad-49b6-b5bd-c8666b3059f6/third-person-cont)
+### Back to main
 🔗 Back to [Portfolio](https://github.com/NasimSakalla/GameDevPortfolio)
-
-
-
-
