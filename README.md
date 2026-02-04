@@ -1,16 +1,20 @@
-# My Territory
+# Card Memory
 A classic memory game featuring randomized layouts and a smooth UI. Test your memory skills by matching pairs in the shortest time possible. 
 
 ## Features
-✅ Randomized Grid – Every game presents a unique challenge with shuffled card layouts.
+✅ Turn-based Strategy – Plan your moves and capture enemy territory.
 
-✅ Smooth Animations – Enjoy fluid card flipping and match effects.
+✅ Dynamic Combat – Attack outcomes are determined by dice rolls and nearby allies.
 
-✅ Timer & Moves Counter – Track your performance with a built-in timer and move counter.
+✅ VS – Challenge a friend.
 
-✅ Win Screen & Restart Option – Celebrate your victory and play again with a single click.
+✅ Color-based Control – Blue vs. Yellow, with clear visual indicators of control.
+
+✅ Smooth UI & Reset Option – Easily track turns and restart the game at any time.
 
 ### Playable demo!
-🔗 For the demo click [here](https://play.unity.com/en/games/fef5e996-ce27-4087-98f9-09e22dc531e2/my-territory)
+🔗 For the demo click [here](https://play.unity.com/en/games/65b40b3a-aa2e-440b-8506-436310f8d28f/memory-card-game)
 
 🔗 Back to [Portfolio](https://github.com/NasimSakalla/GameDevPortfolio)
+
+
