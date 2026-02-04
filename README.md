@@ -6,7 +6,7 @@ A turn-based strategy game where you capture enemy territory, plan moves careful
 
 ✅ Dynamic Combat – Attack outcomes are determined by dice rolls and nearby allies.
 
-✅ VS – Challenge a friend.
+✅ Multiplayer VS – Challenge a friend in competitive play (minimum 2 players required).
 
 ✅ Color-based Control – Blue vs. Yellow, with clear visual indicators of control.
 
