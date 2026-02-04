@@ -16,10 +16,8 @@ Inspired by the classic Mario series, where players navigate levels, defeat enem
 
 ✅ Tilemap , player, enemies, and collectibles sprites.
 
-✅ Fully Playable on Mobile (Activated by script in Unity editor; demo version not mobile-enabled).
+✅ Fully Playable on Mobile (Activated by script in Unity editor)
 
 
-### Playable demo!
-🔗 For the demo click [here](https://play.unity.com/en/games/7fd8543d-3d8b-444c-8d08-549c73fa216a/bow-mario)
-
+### Back to main
 🔗 Back to [Portfolio](https://github.com/NasimSakalla/GameDevPortfolio)
