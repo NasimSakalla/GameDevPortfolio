@@ -1,5 +1,5 @@
-# Card Memory
-A classic memory game featuring randomized layouts and a smooth UI. Test your memory skills by matching pairs in the shortest time possible. 
+# My Territory
+A turn-based strategy game where you capture enemy territory, plan moves carefully, and outsmart your opponent. Engage in dynamic combat, challenge friends, and test your tactical skills!
 
 ## Features
 ✅ Turn-based Strategy – Plan your moves and capture enemy territory.
@@ -12,9 +12,5 @@ A classic memory game featuring randomized layouts and a smooth UI. Test your me
 
 ✅ Smooth UI & Reset Option – Easily track turns and restart the game at any time.
 
-### Playable demo!
-🔗 For the demo click [here](https://play.unity.com/en/games/65b40b3a-aa2e-440b-8506-436310f8d28f/memory-card-game)
-
+### Back to main
 🔗 Back to [Portfolio](https://github.com/NasimSakalla/GameDevPortfolio)
-
-
