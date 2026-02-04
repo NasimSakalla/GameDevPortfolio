@@ -2,12 +2,16 @@
 
 Welcome! This portfolio showcases selected projects I’ve developed in Unity, highlighting gameplay systems, AI, UI/UX, and prototyping skills. All projects run fully in Unity Editor; code, assets, and setup instructions are included in each project branch.
 
-## Featured Projects  
+## Tech
+
+All projects were built with Unity and C#.
+
+### Featured Projects  
 - [Horror Game](https://github.com/NasimSakalla/GameDevPortfolio/tree/Horror-Game) - AI-driven horror experience with player customization.  
 - [My Territory](https://github.com/NasimSakalla/GameDevPortfolio/tree/My-Territory-Game?tab=readme-ov-file) - A classic memory game featuring randomized layouts and a smooth UI.
 - [Penalty Kick Game](https://github.com/NasimSakalla/GameDevPortfolio/tree/PenaltyKick-Game?tab=readme-ov-file) - A customizable penalty shootout game.
   
-### Other Projects
+#### Other Projects
 
 <details>
   <summary>Click to expand</summary>
