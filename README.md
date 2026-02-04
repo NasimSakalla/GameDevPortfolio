@@ -12,5 +12,8 @@ A turn-based strategy game where you capture enemy territory, plan moves careful
 
 ✅ Smooth UI & Reset Option – Easily track turns and restart the game at any time.
 
+### In game screenshots provided below
+<img width="3088" height="1912" alt="image" src="https://github.com/user-attachments/assets/ab315d1d-c951-4a46-824a-55c1f5ca342c" />
+
 ### Back to main
 🔗 Back to [Portfolio](https://github.com/NasimSakalla/GameDevPortfolio)
