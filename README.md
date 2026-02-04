@@ -13,7 +13,7 @@ Welcome! This portfolio showcases selected projects I’ve developed in Unity, h
   <summary>Click to expand</summary>
 
   
-- [Card Memory Game](https://github.com/NasimSakalla/GameDevPortfolio/tree/Card-Memory-Game) - Classic memory game with randomized layouts and smooth UI.  
+- [Card Memory Game](https://github.com/NasimSakalla/GameDevPortfolio/tree/Memory-Game) - Classic memory game with randomized layouts and smooth UI.  
 - [2D Platformer](https://github.com/NasimSakalla/GameDevPortfolio/tree/Bow-Mario-Game) - Inspired by the classic Mario series, where players navigate levels, defeat enemies, and collect coins.  
 - [Basketball Game](https://github.com/NasimSakalla/GameDevPortfolio/tree/Basketball-Game) - A basketball game showcasing UI elements and the use of physics materials for ball bounces and interactions.  
 - [Brick Breaker](https://github.com/NasimSakalla/GameDevPortfolio/tree/Brick-Breaker) - A classic brick breaker game with simple and nostalgic gameplay.  
