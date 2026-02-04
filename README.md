@@ -12,7 +12,5 @@ A visually immersive 3D terrain featuring a mystical forest, a village, and a sm
 
 ✅ Asset Showcase: Demonstrates the ability to work with 3D assets, creating a cohesive and immersive environment.
 
-### Playable demo!
-🔗 For the demo click [here](https://play.unity.com/en/games/03a9224e-5902-41aa-8615-a4ccc30e6487/3d-terrain)
-
+### Back to main
 🔗 Back to [Portfolio](https://github.com/NasimSakalla/GameDevPortfolio)
