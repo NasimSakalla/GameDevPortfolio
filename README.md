@@ -1,5 +1,5 @@
 # Memory Card Game
-A classic memory game featuring randomized layouts and a smooth UI. Test your memory skills by matching pairs in the shortest time possible. 
+A classic memory game featuring randomized layouts and a smooth UI. Test your memory skills by matching trios in the shortest time possible. 
 
 ## Features
 ✅ Randomized Grid – Every game presents a unique challenge with shuffled card layouts.
