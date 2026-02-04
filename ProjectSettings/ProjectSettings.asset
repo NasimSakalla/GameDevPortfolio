@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 0547efc19952d34478aa0b9e7ac4bc8b
+  productGUID: 32deb17aaf252484e94dbd0fe6525e2c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Memory game
+  productName: Super-man (targil game)
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -866,14 +866,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Memory game
+  metroPackageName: Super-man (targil game)
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Memory game
+  metroApplicationDescription: Super-man (targil game)
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -943,10 +943,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 4a0e079d-7965-44dc-acc5-06259b7e45f0
+  cloudProjectId: 58d63865-7ba8-45d2-b7fc-29ffdc31790e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Memory game
+  projectName: Super-man (targil game)
   organizationId: nipzniso
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
