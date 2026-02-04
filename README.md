@@ -3,7 +3,9 @@ A survival horror game featuring an AI-driven pursuer and immersive gameplay. De
 
 ## Features  
 ✅ Atmospheric sound design for tension and immersion
+
 ✅ Smart AI that hunts the player using pathfinding and chase logic
+
 ✅ Pickup system leading to an ending
 
 ### Playable demo!
