@@ -8,7 +8,7 @@ A survival horror game featuring an AI-driven pursuer and immersive gameplay. De
 
 ✅ Pickup system leading to an ending
 
-### in game screenshots provided below 
+### In game screenshots provided below 
 
 ![Screenshot 2025-02-24 003550](https://github.com/user-attachments/assets/fd6aa91f-8c5e-4af4-a60a-91f11ed1f000)
 
