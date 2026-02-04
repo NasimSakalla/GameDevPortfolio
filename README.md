@@ -1,10 +1,10 @@
 # Horror Game  
-A survival horror game featuring AI-driven prueser. 
+A survival horror game featuring an AI-driven pursuer and immersive gameplay. Designed and implemented AI behavior, player mechanics.
 
 ## Features  
-✅ Atmospheric sound design  
-✅ Smart AI that hunts the player  
-✅ pickup system leading to an ending  
+✅ Atmospheric sound design for tension and immersion
+✅ Smart AI that hunts the player using pathfinding and chase logic
+✅ Pickup system leading to an ending
 
 ### Playable demo!
 🔗 For the demo click [here](https://play.unity.com/en/games/44ba5fdd-17e1-47a2-9c97-0cb7e88d4162/the-teacher)
