@@ -1,6 +1,10 @@
 # Horror Game  
 A survival horror game featuring an AI-driven pursuer and immersive gameplay. Designed and implemented AI behavior, player mechanics.
 
+## Video Demo  
+https://youtu.be/bPaBoyAZCQM
+
+
 ## Features  
 ✅ Atmospheric sound design for tension and immersion
 
