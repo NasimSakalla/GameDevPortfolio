@@ -1,4 +1,4 @@
-# Horror Game  
+# My Little Pursuer
 A survival horror game featuring an AI-driven pursuer and immersive gameplay. Designed and implemented AI behavior, player mechanics.
 
 ## Video Demo  
@@ -6,11 +6,15 @@ https://youtu.be/bPaBoyAZCQM
 
 
 ## Features  
-✅ Atmospheric sound design for tension and immersion
+✅ NavMesh-based AI with state-driven behavior (patrol, chase, search)
 
-✅ Smart AI that hunts the player using pathfinding and chase logic
+✅ Dynamic player detection and chase mechanics
 
-✅ Pickup system leading to an ending
+✅ Modular interaction system for collectibles and game triggers
+
+✅ Event-driven progression system leading to win condition
+
+✅ Atmospheric audio and visual cues for immersion
 
 ### In game screenshots provided below 
 
