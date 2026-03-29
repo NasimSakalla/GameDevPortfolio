@@ -7,7 +7,7 @@ Welcome! This portfolio showcases selected projects I’ve developed in Unity, h
 All projects were built with Unity and C#.
 
 ### Featured Projects  
-- [Horror Game](https://github.com/NasimSakalla/GameDevPortfolio/tree/Horror-Game) - AI-driven horror experience with player customization.  
+- [My Little Pursuer](https://github.com/NasimSakalla/GameDevPortfolio/tree/Horror-Game) - AI-driven horror experience with player customization. 
 - [My Territory](https://github.com/NasimSakalla/GameDevPortfolio/tree/My-Territory-Game?tab=readme-ov-file) - A turn-based strategy game.
 - [Penalty Kick Game](https://github.com/NasimSakalla/GameDevPortfolio/tree/PenaltyKick-Game?tab=readme-ov-file) - A customizable penalty shootout game.
   
